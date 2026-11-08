@@ -1,0 +1,23 @@
+{
+  "raw_matches": 1095,
+  "raw_deliveries": 260920,
+  "raw_venue_spellings": 58,
+  "clean_venues": 36,
+  "season_labels_raw": 17,
+  "seasons_clean": 17,
+  "no_result_matches": 5,
+  "dl_matches": 21,
+  "super_over_matches": 14,
+  "super_over_deliveries_excluded": 161,
+  "retired_hurt_not_counted_as_wicket": 15,
+  "overs_with_untagged_noball_capped_at_6": 28,
+  "validation_target_matches_first_innings_plus_1": "1069 of 1069",
+  "validation_runs_margin_matches": "486 of 486",
+  "matches_with_a_home_team": 676,
+  "batters": 674,
+  "bowlers": 530,
+  "batting_runs_total": 329798,
+  "sixes_total": 13036,
+  "innings_rows": 2187,
+  "matches_clean_rows": 1095
+}

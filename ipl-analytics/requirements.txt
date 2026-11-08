@@ -1,0 +1,5 @@
+# Dashboard (what Streamlit Community Cloud installs)
+streamlit==1.40.2
+pandas>=2.2,<3
+numpy>=1.26
+matplotlib>=3.8

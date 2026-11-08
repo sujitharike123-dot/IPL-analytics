@@ -1,0 +1,714 @@
+{
+  "data": {
+    "matches": 1095,
+    "deliveries": 260920,
+    "first_season": 2008,
+    "last_season": 2024,
+    "decided_matches": 1090
+  },
+  "toss": {
+    "toss_winner_wins": {
+      "wins": 554,
+      "matches": 1090,
+      "pct": 50.8,
+      "ci95": [
+        47.9,
+        53.8
+      ],
+      "p_vs_50": 0.6066
+    },
+    "chose_bat": {
+      "wins": 177,
+      "matches": 390,
+      "pct": 45.4,
+      "ci95": [
+        40.5,
+        50.3
+      ],
+      "p_vs_50": 0.0762
+    },
+    "chose_field": {
+      "wins": 377,
+      "matches": 700,
+      "pct": 53.9,
+      "ci95": [
+        50.2,
+        57.5
+      ],
+      "p_vs_50": 0.0451
+    }
+  },
+  "chase": {
+    "all": {
+      "wins": 590,
+      "matches": 1090,
+      "pct": 54.1,
+      "ci95": [
+        51.2,
+        57.1
+      ],
+      "p_vs_50": 0.007
+    },
+    "2023_24": {
+      "wins": 69,
+      "matches": 144,
+      "pct": 47.9,
+      "ci95": [
+        39.9,
+        56.0
+      ],
+      "p_vs_50": 0.6771
+    },
+    "2008_22": {
+      "wins": 521,
+      "matches": 946,
+      "pct": 55.1,
+      "ci95": [
+        51.9,
+        58.2
+      ],
+      "p_vs_50": 0.002
+    },
+    "recent_vs_older_fisher_p": 0.127,
+    "by_season": [
+      {
+        "year": 2008,
+        "chase_win_pct": 62.1
+      },
+      {
+        "year": 2009,
+        "chase_win_pct": 52.6
+      },
+      {
+        "year": 2010,
+        "chase_win_pct": 46.7
+      },
+      {
+        "year": 2011,
+        "chase_win_pct": 55.6
+      },
+      {
+        "year": 2012,
+        "chase_win_pct": 54.1
+      },
+      {
+        "year": 2013,
+        "chase_win_pct": 51.3
+      },
+      {
+        "year": 2014,
+        "chase_win_pct": 61.7
+      },
+      {
+        "year": 2015,
+        "chase_win_pct": 43.9
+      },
+      {
+        "year": 2016,
+        "chase_win_pct": 68.3
+      },
+      {
+        "year": 2017,
+        "chase_win_pct": 55.9
+      },
+      {
+        "year": 2018,
+        "chase_win_pct": 53.3
+      },
+      {
+        "year": 2019,
+        "chase_win_pct": 61.0
+      },
+      {
+        "year": 2020,
+        "chase_win_pct": 50.0
+      },
+      {
+        "year": 2021,
+        "chase_win_pct": 61.7
+      },
+      {
+        "year": 2022,
+        "chase_win_pct": 50.0
+      },
+      {
+        "year": 2023,
+        "chase_win_pct": 45.2
+      },
+      {
+        "year": 2024,
+        "chase_win_pct": 50.7
+      }
+    ]
+  },
+  "toss_decision_field_pct": {
+    "2010": 35.0,
+    "2022": 79.7
+  },
+  "home_advantage": {
+    "wins": 369,
+    "matches": 671,
+    "pct": 55.0,
+    "ci95": [
+      51.2,
+      58.7
+    ],
+    "p_vs_50": 0.0108
+  },
+  "team_home_away": {
+    "Sunrisers Hyderabad": {
+      "home": {
+        "wins": 36,
+        "matches": 57,
+        "pct": 63.2,
+        "ci95": [
+          50.2,
+          74.5
+        ],
+        "p_vs_50": 0.0627
+      },
+      "away": {
+        "wins": 21,
+        "matches": 53,
+        "pct": 39.6,
+        "ci95": [
+          27.6,
+          53.1
+        ],
+        "p_vs_50": 0.169
+      },
+      "fisher_p": 0.022
+    },
+    "Deccan Chargers": {
+      "home": {
+        "wins": 3,
+        "matches": 18,
+        "pct": 16.7,
+        "ci95": [
+          5.8,
+          39.2
+        ],
+        "p_vs_50": 0.0075
+      },
+      "away": {
+        "wins": 8,
+        "matches": 22,
+        "pct": 36.4,
+        "ci95": [
+          19.7,
+          57.0
+        ],
+        "p_vs_50": 0.2863
+      },
+      "fisher_p": 0.286
+    },
+    "Chennai Super Kings": {
+      "home": {
+        "wins": 50,
+        "matches": 71,
+        "pct": 70.4,
+        "ci95": [
+          59.0,
+          79.8
+        ],
+        "p_vs_50": 0.0008
+      },
+      "away": {
+        "wins": 33,
+        "matches": 65,
+        "pct": 50.8,
+        "ci95": [
+          38.9,
+          62.5
+        ],
+        "p_vs_50": 1.0
+      },
+      "fisher_p": 0.023
+    },
+    "Rajasthan Royals": {
+      "home": {
+        "wins": 37,
+        "matches": 57,
+        "pct": 64.9,
+        "ci95": [
+          51.9,
+          76.0
+        ],
+        "p_vs_50": 0.0331
+      },
+      "away": {
+        "wins": 26,
+        "matches": 63,
+        "pct": 41.3,
+        "ci95": [
+          30.0,
+          53.6
+        ],
+        "p_vs_50": 0.2074
+      },
+      "fisher_p": 0.011
+    }
+  },
+  "era": {
+    "avg_first_innings_2008_22": 163.0,
+    "avg_first_innings_2023_24": 186.3,
+    "innings_2008_22": 927,
+    "innings_2023_24": 142,
+    "pct_200_plus_2008_22": 10.2,
+    "pct_200_plus_2023_24": 34.5,
+    "welch_t_p": 2.02e-12
+  },
+  "records": [
+    {
+      "batting_team": "Sunrisers Hyderabad",
+      "bowling_team": "Royal Challengers Bengaluru",
+      "runs": 287,
+      "wickets": 3,
+      "year": 2024
+    },
+    {
+      "batting_team": "Sunrisers Hyderabad",
+      "bowling_team": "Mumbai Indians",
+      "runs": 277,
+      "wickets": 3,
+      "year": 2024
+    },
+    {
+      "batting_team": "Kolkata Knight Riders",
+      "bowling_team": "Delhi Capitals",
+      "runs": 272,
+      "wickets": 7,
+      "year": 2024
+    },
+    {
+      "batting_team": "Sunrisers Hyderabad",
+      "bowling_team": "Delhi Capitals",
+      "runs": 266,
+      "wickets": 7,
+      "year": 2024
+    }
+  ],
+  "total_sixes": 13036,
+  "target_bands": [
+    {
+      "target_band": "1) 140 or less",
+      "matches": 204,
+      "chases_won": 166.0,
+      "chase_win_pct": 81.4
+    },
+    {
+      "target_band": "2) 141-160",
+      "matches": 227,
+      "chases_won": 156.0,
+      "chase_win_pct": 68.7
+    },
+    {
+      "target_band": "3) 161-180",
+      "matches": 299,
+      "chases_won": 152.0,
+      "chase_win_pct": 50.8
+    },
+    {
+      "target_band": "4) 181-200",
+      "matches": 195,
+      "chases_won": 75.0,
+      "chase_win_pct": 38.5
+    },
+    {
+      "target_band": "5) 201 or more",
+      "matches": 144,
+      "chases_won": 26.0,
+      "chase_win_pct": 18.1
+    }
+  ],
+  "powerplay_vs_win": [
+    {
+      "inning": 1,
+      "powerplay_runs": "1) under 40",
+      "innings": 303,
+      "batting_team_win_pct": 35.0
+    },
+    {
+      "inning": 1,
+      "powerplay_runs": "2) 40-49",
+      "innings": 363,
+      "batting_team_win_pct": 43.5
+    },
+    {
+      "inning": 1,
+      "powerplay_runs": "3) 50-59",
+      "innings": 275,
+      "batting_team_win_pct": 52.0
+    },
+    {
+      "inning": 1,
+      "powerplay_runs": "4) 60 or more",
+      "innings": 128,
+      "batting_team_win_pct": 68.0
+    },
+    {
+      "inning": 2,
+      "powerplay_runs": "1) under 40",
+      "innings": 291,
+      "batting_team_win_pct": 43.0
+    },
+    {
+      "inning": 2,
+      "powerplay_runs": "2) 40-49",
+      "innings": 324,
+      "batting_team_win_pct": 49.4
+    },
+    {
+      "inning": 2,
+      "powerplay_runs": "3) 50-59",
+      "innings": 269,
+      "batting_team_win_pct": 57.6
+    },
+    {
+      "inning": 2,
+      "powerplay_runs": "4) 60 or more",
+      "innings": 185,
+      "batting_team_win_pct": 73.0
+    }
+  ],
+  "venues": [
+    {
+      "scoring_rank": 1,
+      "venue": "Brabourne Stadium, Mumbai",
+      "matches": 27,
+      "avg_first_innings": 178.5,
+      "chase_win_pct": 48.1
+    },
+    {
+      "scoring_rank": 2,
+      "venue": "M Chinnaswamy Stadium, Bengaluru",
+      "matches": 88,
+      "avg_first_innings": 175.0,
+      "chase_win_pct": 54.5
+    },
+    {
+      "scoring_rank": 3,
+      "venue": "Arun Jaitley Stadium (Feroz Shah Kotla), Delhi",
+      "matches": 86,
+      "avg_first_innings": 171.2,
+      "chase_win_pct": 51.2
+    },
+    {
+      "scoring_rank": 4,
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "matches": 35,
+      "avg_first_innings": 170.3,
+      "chase_win_pct": 57.1
+    },
+    {
+      "scoring_rank": 5,
+      "venue": "Wankhede Stadium, Mumbai",
+      "matches": 118,
+      "avg_first_innings": 170.3,
+      "chase_win_pct": 54.2
+    },
+    {
+      "scoring_rank": 6,
+      "venue": "PCA IS Bindra Stadium, Mohali",
+      "matches": 60,
+      "avg_first_innings": 167.9,
+      "chase_win_pct": 56.7
+    },
+    {
+      "scoring_rank": 7,
+      "venue": "Eden Gardens, Kolkata",
+      "matches": 89,
+      "avg_first_innings": 167.5,
+      "chase_win_pct": 57.3
+    },
+    {
+      "scoring_rank": 8,
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "matches": 85,
+      "avg_first_innings": 163.9,
+      "chase_win_pct": 42.4
+    },
+    {
+      "scoring_rank": 9,
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "matches": 75,
+      "avg_first_innings": 163.8,
+      "chase_win_pct": 54.7
+    },
+    {
+      "scoring_rank": 10,
+      "venue": "Dubai International Cricket Stadium",
+      "matches": 46,
+      "avg_first_innings": 163.8,
+      "chase_win_pct": 50.0
+    },
+    {
+      "scoring_rank": 11,
+      "venue": "MCA Stadium, Pune",
+      "matches": 51,
+      "avg_first_innings": 162.4,
+      "chase_win_pct": 45.1
+    },
+    {
+      "scoring_rank": 12,
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "matches": 56,
+      "avg_first_innings": 161.7,
+      "chase_win_pct": 66.1
+    },
+    {
+      "scoring_rank": 13,
+      "venue": "DY Patil Stadium, Navi Mumbai",
+      "matches": 37,
+      "avg_first_innings": 159.6,
+      "chase_win_pct": 54.1
+    },
+    {
+      "scoring_rank": 14,
+      "venue": "Sharjah Cricket Stadium",
+      "matches": 28,
+      "avg_first_innings": 159.0,
+      "chase_win_pct": 64.3
+    },
+    {
+      "scoring_rank": 15,
+      "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+      "matches": 37,
+      "avg_first_innings": 158.9,
+      "chase_win_pct": 56.8
+    }
+  ],
+  "uppal": [
+    {
+      "ground": "Uppal, Hyderabad",
+      "matches": 75,
+      "avg_first_innings": 163.8,
+      "chase_win_pct": 54.7,
+      "chose_to_field_pct": 54.7
+    },
+    {
+      "ground": "All other grounds",
+      "matches": 994,
+      "avg_first_innings": 166.2,
+      "chase_win_pct": 53.7,
+      "chose_to_field_pct": 64.8
+    }
+  ],
+  "hyderabad_franchises": [
+    {
+      "team": "Deccan Chargers",
+      "where_played": "At Hyderabad",
+      "matches": 18,
+      "wins": 3,
+      "win_pct": 16.7
+    },
+    {
+      "team": "Deccan Chargers",
+      "where_played": "Elsewhere",
+      "matches": 57,
+      "wins": 26,
+      "win_pct": 45.6
+    },
+    {
+      "team": "Sunrisers Hyderabad",
+      "where_played": "At Hyderabad",
+      "matches": 57,
+      "wins": 36,
+      "win_pct": 63.2
+    },
+    {
+      "team": "Sunrisers Hyderabad",
+      "where_played": "Elsewhere",
+      "matches": 125,
+      "wins": 52,
+      "win_pct": 41.6
+    }
+  ],
+  "franchises": [
+    {
+      "rnk": 1,
+      "team": "Chennai Super Kings",
+      "titles": 5,
+      "matches": 237,
+      "wins": 138,
+      "win_pct": 58.2
+    },
+    {
+      "rnk": 2,
+      "team": "Mumbai Indians",
+      "titles": 5,
+      "matches": 261,
+      "wins": 144,
+      "win_pct": 55.2
+    },
+    {
+      "rnk": 3,
+      "team": "Kolkata Knight Riders",
+      "titles": 3,
+      "matches": 251,
+      "wins": 131,
+      "win_pct": 52.2
+    },
+    {
+      "rnk": 4,
+      "team": "Gujarat Titans",
+      "titles": 1,
+      "matches": 45,
+      "wins": 28,
+      "win_pct": 62.2
+    },
+    {
+      "rnk": 5,
+      "team": "Rajasthan Royals",
+      "titles": 1,
+      "matches": 219,
+      "wins": 112,
+      "win_pct": 51.1
+    },
+    {
+      "rnk": 6,
+      "team": "Sunrisers Hyderabad",
+      "titles": 1,
+      "matches": 182,
+      "wins": 88,
+      "win_pct": 48.4
+    },
+    {
+      "rnk": 7,
+      "team": "Deccan Chargers",
+      "titles": 1,
+      "matches": 75,
+      "wins": 29,
+      "win_pct": 38.7
+    },
+    {
+      "rnk": 8,
+      "team": "Lucknow Super Giants",
+      "titles": 0,
+      "matches": 43,
+      "wins": 24,
+      "win_pct": 55.8
+    },
+    {
+      "rnk": 9,
+      "team": "Royal Challengers Bengaluru",
+      "titles": 0,
+      "matches": 252,
+      "wins": 123,
+      "win_pct": 48.8
+    },
+    {
+      "rnk": 10,
+      "team": "Delhi Capitals",
+      "titles": 0,
+      "matches": 250,
+      "wins": 115,
+      "win_pct": 46.0
+    },
+    {
+      "rnk": 11,
+      "team": "Punjab Kings",
+      "titles": 0,
+      "matches": 246,
+      "wins": 112,
+      "win_pct": 45.5
+    },
+    {
+      "rnk": 12,
+      "team": "Pune Warriors",
+      "titles": 0,
+      "matches": 45,
+      "wins": 12,
+      "win_pct": 26.7
+    }
+  ],
+  "top_scorers": [
+    {
+      "rnk": 1,
+      "player": "V Kohli",
+      "runs": 8004,
+      "balls": 6065,
+      "strike_rate": 132.0,
+      "average": 38.7,
+      "sixes": 273
+    },
+    {
+      "rnk": 2,
+      "player": "S Dhawan",
+      "runs": 6769,
+      "balls": 5324,
+      "strike_rate": 127.1,
+      "average": 35.3,
+      "sixes": 153
+    },
+    {
+      "rnk": 3,
+      "player": "RG Sharma",
+      "runs": 6628,
+      "balls": 5054,
+      "strike_rate": 131.1,
+      "average": 29.7,
+      "sixes": 281
+    },
+    {
+      "rnk": 4,
+      "player": "DA Warner",
+      "runs": 6565,
+      "balls": 4697,
+      "strike_rate": 139.8,
+      "average": 40.5,
+      "sixes": 236
+    },
+    {
+      "rnk": 5,
+      "player": "SK Raina",
+      "runs": 5528,
+      "balls": 4043,
+      "strike_rate": 136.7,
+      "average": 32.5,
+      "sixes": 203
+    }
+  ],
+  "death_bowlers": [
+    {
+      "rnk": 1,
+      "player": "SP Narine",
+      "balls": 1021,
+      "economy": 7.4,
+      "wickets": 73,
+      "dot_ball_pct": 38.7
+    },
+    {
+      "rnk": 2,
+      "player": "SL Malinga",
+      "balls": 1117,
+      "economy": 7.86,
+      "wickets": 108,
+      "dot_ball_pct": 35.0
+    },
+    {
+      "rnk": 3,
+      "player": "Rashid Khan",
+      "balls": 516,
+      "economy": 8.05,
+      "wickets": 39,
+      "dot_ball_pct": 37.8
+    },
+    {
+      "rnk": 4,
+      "player": "R Ashwin",
+      "balls": 595,
+      "economy": 8.14,
+      "wickets": 36,
+      "dot_ball_pct": 31.3
+    },
+    {
+      "rnk": 5,
+      "player": "JJ Bumrah",
+      "balls": 1247,
+      "economy": 8.29,
+      "wickets": 91,
+      "dot_ball_pct": 33.8
+    }
+  ]
+}

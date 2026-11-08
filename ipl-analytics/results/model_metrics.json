@@ -1,0 +1,94 @@
+{
+  "train_chases": 927,
+  "test_chases": 142,
+  "test_states": 2548,
+  "logistic_regression": {
+    "auc": 0.869,
+    "log_loss": 0.457,
+    "brier": 0.15
+  },
+  "gradient_boosting": {
+    "auc": 0.868,
+    "log_loss": 0.455,
+    "brier": 0.15
+  },
+  "baseline_historical_rate": {
+    "auc": 0.5,
+    "log_loss": 0.7,
+    "brier": 0.253
+  },
+  "rule_of_thumb_rrr_under_8": {
+    "auc": 0.69,
+    "log_loss": 0.61,
+    "brier": 0.209
+  },
+  "logistic_auc_by_stage": [
+    {
+      "stage": "overs 1-6",
+      "states": 852,
+      "auc": 0.8
+    },
+    {
+      "stage": "overs 7-12",
+      "states": 841,
+      "auc": 0.854
+    },
+    {
+      "stage": "overs 13-19",
+      "states": 855,
+      "auc": 0.934
+    }
+  ],
+  "calibration": [
+    {
+      "pred_mean": 0.037,
+      "actual_mean": 0.057,
+      "n": 644
+    },
+    {
+      "pred_mean": 0.146,
+      "actual_mean": 0.262,
+      "n": 332
+    },
+    {
+      "pred_mean": 0.246,
+      "actual_mean": 0.358,
+      "n": 229
+    },
+    {
+      "pred_mean": 0.346,
+      "actual_mean": 0.409,
+      "n": 154
+    },
+    {
+      "pred_mean": 0.446,
+      "actual_mean": 0.497,
+      "n": 169
+    },
+    {
+      "pred_mean": 0.551,
+      "actual_mean": 0.579,
+      "n": 159
+    },
+    {
+      "pred_mean": 0.652,
+      "actual_mean": 0.73,
+      "n": 159
+    },
+    {
+      "pred_mean": 0.753,
+      "actual_mean": 0.723,
+      "n": 173
+    },
+    {
+      "pred_mean": 0.853,
+      "actual_mean": 0.861,
+      "n": 208
+    },
+    {
+      "pred_mean": 0.954,
+      "actual_mean": 0.956,
+      "n": 321
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# raw Kaggle files are large; download them yourself (see README)
+data/raw/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
